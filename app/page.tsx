@@ -89,7 +89,7 @@ export default function Page() {
       </main>
 
       <footer className="bg-white border-t border-slate-200 py-8 mt-auto text-center text-slate-500 text-sm">
-        © {new Date().getFullYear()} FarmaQuiz Pro
+        © {new Date().getFullYear()} Rosmi
       </footer>
     </div>
   );
